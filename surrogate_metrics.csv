@@ -1,0 +1,7 @@
+target,model,RMSE,MAE,R2
+kwh,Linear regression,25.8812,18.6522,0.3439
+kwh,Random forest,19.6687,11.6244,0.6211
+kwh,Gradient boosting (HGB),19.2178,11.5,0.6383
+q_lag,Linear regression,14.0686,10.254,0.2564
+q_lag,Random forest,10.5471,6.2603,0.582
+q_lag,Gradient boosting (HGB),10.2884,6.1969,0.6023
